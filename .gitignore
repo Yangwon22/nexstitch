@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+input/*
+!input/.gitkeep
+output/*
+!output/.gitkeep
+bin/
+python/
+calibration/*
+!calibration/.gitkeep

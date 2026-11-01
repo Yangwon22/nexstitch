@@ -1,0 +1,6 @@
+opencv-contrib-python
+numpy
+streamlit
+av
+ffmpeg-python
+streamlit-drawable-canvas
